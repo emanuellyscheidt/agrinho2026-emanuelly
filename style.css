@@ -19,3 +19,15 @@
     padding:15px;
     list-style-type: none;
 }
+
+.conteudo-secao-sustentavel{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 60px 5%; 
+    min-height: 80vh; 
+    gap: 30px;
+}
+.conteudo-sustentavel-texto{
+    flex: 1;
+}
